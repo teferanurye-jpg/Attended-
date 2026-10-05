@@ -1,0 +1,6 @@
+{
+  "name": "Ethio Attendance",
+  "description": "Employee attendance tracking app with real-time GPS location tagging, branch geofencing, and work logs for Ethiopian companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
